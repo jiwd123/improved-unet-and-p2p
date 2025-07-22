@@ -49,6 +49,4 @@ The examples from the paper:
 
 This code is a simple implementation of [pix2pix](https://phillipi.github.io/pix2pix/). Easier to understand. Note that we use a downsampling-resblocks-upsampling structure instead of the unet structure in this code, therefore the results of this code may inconsistent with the results presented in the paper.
 
-Highly recommend the more sophisticated and organized code [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) by [Jun-Yan Zhu](https://github.com/junyanz).
-
-https://github.com/bubbliiiing/unet-pytorch
+Highly recommend the more sophisticated and organized code [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) by [Jun-Yan Zhu](https://github.com/junyanz) and [unet-pytorch](https://github.com/bubbliiiing/unet-pytorch) by [bubbliiiing](https://github.com/bubbliiiing)
