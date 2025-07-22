@@ -1,5 +1,12 @@
-# improved-unet-and-p2p
-improved unet and p2p
+# improved_unet
+## train
+```python
+python train.py
+```
+## predict
+```python
+python predict.py
+```
 
 
 # pix2pix-pytorch
@@ -18,7 +25,7 @@ The examples from the paper:
 + Python, Numpy, PIL
 + pytorch 0.4.0
 + torchvision 0.2.1
-
++ opencv-python
 ## Getting Started
 
 + Clone this repo:
@@ -43,3 +50,5 @@ The examples from the paper:
 This code is a simple implementation of [pix2pix](https://phillipi.github.io/pix2pix/). Easier to understand. Note that we use a downsampling-resblocks-upsampling structure instead of the unet structure in this code, therefore the results of this code may inconsistent with the results presented in the paper.
 
 Highly recommend the more sophisticated and organized code [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) by [Jun-Yan Zhu](https://github.com/junyanz).
+
+https://github.com/bubbliiiing/unet-pytorch
